@@ -2,6 +2,15 @@
 
 # 📊 Power BI Sales Analysis Project
 
+<img width="1640" height="923" alt="Screenshot 2026-04-25 171816" src="https://github.com/user-attachments/assets/8053db21-b85f-4fad-bbf7-43b725352957" />
+<img width="1634" height="913" alt="Screenshot 2026-04-25 171825" src="https://github.com/user-attachments/assets/03b5881b-e49a-401b-ba16-ec5149602d4c" />
+<img width="1632" height="913" alt="Screenshot 2026-04-25 171842" src="https://github.com/user-attachments/assets/446ca602-890e-4c42-9393-8e015e760ec1" />
+<img width="1645" height="913" alt="Screenshot 2026-04-25 171835" src="https://github.com/user-attachments/assets/24892647-ddd0-429c-8a11-4b6f3e305a18" />
+<img width="1641" height="912" alt="Screenshot 2026-04-25 171850" src="https://github.com/user-attachments/assets/f9098861-ca98-4ee1-8bc7-bfb8b4a469dc" />
+<img width="1628" height="910" alt="Screenshot 2026-04-25 171903" src="https://github.com/user-attachments/assets/2a45b23b-37cf-4738-88b3-9c17d5833c06" />
+
+
+
 ## 📌 Project Overview
 
 This project presents a comprehensive **Sales Analysis Dashboard** built using **Power BI**, supported by SQL data modeling and transformation.
